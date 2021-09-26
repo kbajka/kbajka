@@ -53,3 +53,9 @@ print('lista5 =', lista5)
 ##odwrocenie2 = sorted(imie_nazwisko)
 ##print(odwrocenie1)
 ##print(odwrocenie2)
+
+
+lista5 = lista4.reverse()
+lista5 = lista4.reverse()
+lista5 = lista4.reverse()
+lista5 = lista4.reverse()
